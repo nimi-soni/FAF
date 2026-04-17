@@ -2,7 +2,7 @@
 
 Designed and implemented a comprehensive Full & Final (F&F) Settlement solution in SAP HCM to streamline employee offboarding processes. The solution automates settlement calculations, integrates workflow approvals, and ensures accurate processing of payouts and recoveries while enhancing transparency, compliance, and employee experience.
 
-![ABAP](https://raw.githubusercontent.com/nimi-soni/Fitment-Slip-Implementation-Using-Adobe-forms-and-ESS-Integration/refs/heads/main/FitmentSlip/HCM_ABAP%20(1).png)
+![ABAP](https://raw.githubusercontent.com/nimi-soni/FAF/refs/heads/main/FAF/FAF%20(1).png)
 
 **Key Functionalities**:
 * Developed a custom F&F settlement program to automate end-to-end offboarding financial processing.
@@ -28,7 +28,7 @@ Designed and implemented a comprehensive Full & Final (F&F) Settlement solution 
     * 🕒 Real-time status updates to stakeholders
 * Ensured validation and verification layer before final approval to maintain data integrity. 
 
-![ABAP](https://raw.githubusercontent.com/nimi-soni/Fitment-Slip-Implementation-Using-Adobe-forms-and-ESS-Integration/refs/heads/main/FitmentSlip/HCM_ABAP%20(1).png)
+![ABAP](https://raw.githubusercontent.com/nimi-soni/FAF/refs/heads/main/FAF/FAF%20(2).png)
 
 **Business Impact**:
 * Significantly reduced manual effort and human errors in complex F&F calculations.
