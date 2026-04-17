@@ -1,4 +1,4 @@
-# 🤝🏻 Full & Final(F&F) Settlement ⚙️ Automation with Workflow Orchestration & 📜 Compliance Framework 💼
+# 🤝🏻 Full & Final(F&F) Settlement ⚙️ Automation with Workflow Orchestration & Compliance Framework 💼
 
 Designed and implemented a comprehensive Full & Final (F&F) Settlement solution in SAP HCM to streamline employee offboarding processes. The solution automates settlement calculations, integrates workflow approvals, and ensures accurate processing of payouts and recoveries while enhancing transparency, compliance, and employee experience.
 
